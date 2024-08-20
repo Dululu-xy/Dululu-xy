@@ -6,7 +6,7 @@
 I am a Graduate Student at China University of Petroleum (East China) , pursuing a Masters in Computer Science and technology.
 
 I’m currently working on Computer Vision, including: 
-- Seismic Image Noise Attenuation and Super-Resolution
+- Seismic Image Noise Attenuation
 - Seismic Image Super-Resolution
 
 ### Languages
