@@ -14,5 +14,3 @@ I’m currently working on Computer Vision, including:
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-888?&logo=Java&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dululu-xy)](https://git.io/streak-stats)
