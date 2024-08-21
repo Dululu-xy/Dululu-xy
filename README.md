@@ -13,4 +13,6 @@ I’m currently working on Computer Vision, including:
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-888?&logo=Java&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-00599C?&logo=JavaScript%2b%2b)
+![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
