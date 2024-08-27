@@ -17,3 +17,5 @@ I’m currently working on Computer Vision, including:
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
 ![HTML](https://img.shields.io/badge/-HTML-00599C?&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-00599C?&logo=css)
+
