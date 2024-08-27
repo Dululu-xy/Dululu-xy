@@ -9,7 +9,7 @@ I’m currently working on Computer Vision, including:
 - Seismic Image Noise Attenuation
 - Seismic Image Super-Resolution
 
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-888?&logo=Java&logoColor=fff)
