@@ -19,6 +19,8 @@ I’m currently working on Computer Vision and Generative AI, including:
 ![HTML](https://img.shields.io/badge/-HTML-00599C?&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-00599C?&logo=css)
 
+## Paper
+Y. Xiao, K. Li*, et al. ``Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolution,'' Geophysics, 2024. (JCR Q1)
 
 ## Projects
 Teaching Video Speech-to-Text Extraction System
