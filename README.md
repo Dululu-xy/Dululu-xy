@@ -19,3 +19,5 @@ I’m currently working on Computer Vision and Generative AI, including:
 ![HTML](https://img.shields.io/badge/-HTML-00599C?&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-00599C?&logo=css)
 
+
+## Projects
