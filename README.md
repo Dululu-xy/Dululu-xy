@@ -21,6 +21,7 @@ I’m currently working on Computer Vision and Generative AI, including:
 
 ## Paper
 Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolution
+
 [Code](https://github.com/Dululu-xy/MD-Diffusion)
 
 ## Projects
