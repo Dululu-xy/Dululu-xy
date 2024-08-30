@@ -21,3 +21,6 @@ I’m currently working on Computer Vision and Generative AI, including:
 
 
 ## Projects
+Teaching Video Speech-to-Text Extraction System
+
+Attendance and Assignment Management System
