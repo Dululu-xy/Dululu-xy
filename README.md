@@ -24,15 +24,19 @@ Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolu
 
 [Code](https://github.com/Dululu-xy/MD-Diffusion)
 
-## Projects
-Teaching Video Speech-to-Text Extraction System
+## Systems
+1. Teaching Video Speech-to-Text Extraction System
 
 https://github.com/user-attachments/assets/a5a1add4-99fd-41b1-878c-d9a01a8cd846
 
-Attendance and Assignment Management System
+2. Attendance and Assignment Management System
 
-Graduate Information Management System
+3. Graduate Information Management System
+
+### Django
 
 https://github.com/user-attachments/assets/7140acb6-2ff7-4eb4-b80c-72eafb7f179c
+
+### SpringBoot
 
 https://github.com/user-attachments/assets/4ce35c85-24b9-4988-a842-e1e360ec7e5a
