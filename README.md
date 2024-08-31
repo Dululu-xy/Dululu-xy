@@ -28,3 +28,5 @@ Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolu
 Teaching Video Speech-to-Text Extraction System
 
 Attendance and Assignment Management System
+
+[Graduate Information Management System](https://github.com/Dululu-xy/Dululu-xy/blob/main/project/videos/%E6%AF%95%E4%B8%9A%E7%94%9F%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9FSpringBoot.mp4)
