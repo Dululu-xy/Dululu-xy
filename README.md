@@ -24,9 +24,9 @@ I’m currently working on Computer Vision and Generative AI, including:
 
 [Code](https://github.com/Dululu-xy/MD-Diffusion)
 
-![MD Diffusion](https://github.com/user-attachments/assets/718a8196-c694-4821-9b77-e11737545291)
+### MD Diffusion Model
 
-![MD Diffusion synthetic data denoise and superresolution](https://github.com/user-attachments/assets/ddffeed6-6e66-4def-b56e-5f20ec5228fe)
+![MD Diffusion](https://github.com/user-attachments/assets/718a8196-c694-4821-9b77-e11737545291)
 
 ## Systems
 ### 1. Teaching Video Speech-to-Text Extraction System
