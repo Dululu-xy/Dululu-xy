@@ -38,7 +38,13 @@ Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolu
 
 https://github.com/user-attachments/assets/a5a1add4-99fd-41b1-878c-d9a01a8cd846
 
-### 2. Graduate Information Management System
+### 2. Attendance and Assignment Management System
+
+- Responsible for building the entire system using the SSM framework and conducting frontend design and development using Bootstrap, HTML5, JavaScript, and CSS;
+- Implemented course creation/joining, attendance tracking, and assignment submission to boost teaching efficiency;
+- Won the provincial second prize in the Shandong Province College Student Software Design Competition and successfully applied for one software copyright.
+
+### 3. Graduate Information Management System
 
 #### Django
 
