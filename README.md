@@ -20,7 +20,7 @@ I’m currently working on Computer Vision and Generative AI, including:
 ![CSS](https://img.shields.io/badge/-CSS-00599C?&logo=css)
 
 ## Paper
-Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolution
+[Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolution](https://library.seg.org/doi/abs/10.1190/geo2023-0676.1?journalCode=gpysa7)
 
 [Code](https://github.com/Dululu-xy/MD-Diffusion)
 
