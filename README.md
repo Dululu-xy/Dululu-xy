@@ -31,6 +31,11 @@ Diffusion Models for Multidimensional Seismic Noise Attenuation and Super-Resolu
 ## Systems
 ### 1. Teaching Video Speech-to-Text Extraction System
 
+- Built the system using the Spring Boot framework, designed and developed the frontend with HTML5, JavaScript, and CSS, and implemented the backend audio-video separation function and management module using Java;
+- Used FFmpeg for audio-visual separation and merging, RabbitMQ for message distribution and load balancing, MySQL and COS for data storage, and Echarts for data visualization;
+- Achieved the top score in course design, won the provincial third prize in the China College Student Computer Design Competition, and applied for a software copyright.
+
+
 https://github.com/user-attachments/assets/a5a1add4-99fd-41b1-878c-d9a01a8cd846
 
 ### 2. Graduate Information Management System
