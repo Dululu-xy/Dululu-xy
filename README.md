@@ -5,7 +5,7 @@
 
 I am a Graduate Student at China University of Petroleum (East China) , pursuing a Masters in Computer Science and technology.
 
-I’m currently working on Computer Vision and Generative AI, including: 
+I’m currently working on Computer Vision, Image Processing, and Generative AI, including: 
 - Seismic Image Noise Attenuation
 - Seismic Image Super-Resolution
 
